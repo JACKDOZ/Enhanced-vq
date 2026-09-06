@@ -72,16 +72,15 @@ build/libs/
 
 ### Download on Modrinth
 
-[Enhanced VQ on Modrinth]([YOUR_MODRINTH_LINK](https://modrinth.com/mod/enhanced-vq))
+[Enhanced VQ on Modrinth](https://modrinth.com/mod/enhanced-vq)
 
 Download the latest official release, view supported versions and access the complete changelog.
 
 ### Support Development
 
-[Support Enhanced VQ on Ko-fi]([YOUR_KOFI_LINK](https://ko-fi.com/dozanstudios))
+[Support Enhanced VQ on Ko-fi](https://ko-fi.com/dozanstudios)
 
 If you enjoy the project, you can support its continued development through Ko-fi.
-
 ---
 
 # ✨ Main Features

@@ -73,8 +73,8 @@ Revisión completa del mod antes de su primera publicación en Modrinth: correcc
   - Caso aparte: "Hacia lo Desconocido", "Jugando con Fuego" y "Bajo las Olas" prometían pociones específicas (Resistencia al Fuego / Respiración) pero el código entregaba una Poción sin ningún efecto asignado. El texto ahora dice "Poción" a secas para reflejar la realidad — si el objetivo real era que esas pociones sí tuvieran su efecto, es un ajuste aparte a considerar.
 - **Las misiones "Consigue X de [mineral]" (carbón, hierro, cobre, oro, redstone, lapislázuli, diamante, Ancient Debris, esmeralda — 20 misiones en total) contaban bloques de mena rotos en vez del recurso realmente obtenido.** Esto causaba dos problemas concretos:
   - Con **Toque de Seda**, el bloque te da la mena (ej. "Mena de Hierro"), no el recurso — igual sumaba progreso aunque nunca recibieras el ítem.
-  - Con **Fortuna**, podés obtener varios ítems de un solo bloque — antes solo sumaba 1 por bloque, subestimando tu progreso real.
-  - Ahora se revisa cuánto tenés en el inventario en este momento, sin importar cómo lo conseguiste (minando, comerciando, saqueando un cofre).
+  - Con **Fortuna**, puedes obtener varios ítems de un solo bloque — antes solo sumaba 1 por bloque, subestimando el progreso real.
+  - Ahora se revisa cuánto se tiene en el inventario en ese momento, sin importar cómo se consiguió (minando, comerciando, saqueando un cofre).
 - El HUD (rastreador fijado en pantalla) de "No Pasaremos Frío" decía "Recoge 10 de Carbón **minando**" — quedó igual de desactualizado que el bug anterior. Corregido a "Consigue 10 de Carbón", coherente con el libro y con el nuevo mecanismo.
 
 ## 🧹 Limpieza de código y archivos sin usar

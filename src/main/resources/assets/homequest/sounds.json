@@ -1,0 +1,20 @@
+{
+  "page_flip": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "homequest:page_flip",
+        "stream": false
+      }
+    ]
+  },
+  "claim_reward": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "homequest:claim_reward",
+        "stream": false
+      }
+    ]
+  }
+}

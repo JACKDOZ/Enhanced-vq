@@ -1,0 +1,66 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [848, 1264],
+  "textures": {
+    "1": "homequest:item/closebook",
+    "2": "homequest:item/lomo",
+    "3": "homequest:item/texturalibro",
+    "particle": "homequest:item/lomo"
+  },
+  "elements": [
+    {
+      "name": "Book",
+      "from": [4.75, 5, 6],
+      "to": [5.75, 12, 10],
+      "rotation": {"angle": -27.5, "axis": "z", "origin": [4.75, 5, 6]},
+      "faces": {
+        "north": {"uv": [6.6487, 0.95207, 9.37391, 14.72861], "texture": "#2"},
+        "east": {"uv": [0.9434, 1, 15.16981, 14.78481], "texture": "#1"},
+        "south": {"uv": [8.3577, 13.44568, 13.20833, 14.43803], "rotation": 90, "texture": "#3"},
+        "west": {"uv": [0.83019, 1.22618, 15.18868, 14.75949], "texture": "#1"},
+        "up": {"uv": [8.03125, 13.32687, 13.99351, 14.67563], "rotation": 90, "texture": "#3"},
+        "down": {"uv": [8.02781, 13.21678, 13.94387, 14.56738], "rotation": 90, "texture": "#3"}
+      }
+    },
+    {
+      "name": "Marcadortop",
+      "from": [8, 11, 6.89],
+      "to": [8, 11.5, 7.39],
+      "rotation": {"angle": -27.5, "axis": "z", "origin": [8, 11, 7]},
+      "faces": {
+        "north": {"uv": [0.03774, 0, 0.03774, 0.02532], "texture": "#1"},
+        "east": {"uv": [4.11321, 0.43038, 5.86792, 1.41772], "texture": "#1"},
+        "south": {"uv": [0, 0, 0, 0.02532], "texture": "#1"},
+        "west": {"uv": [4.09434, 0.48101, 5.90566, 1.39241], "texture": "#1"},
+        "up": {"uv": [0, 0, 0, 0.01266], "texture": "#1"},
+        "down": {"uv": [0, 0.01266, 0, 0.02532], "texture": "#1"}
+      }
+    },
+    {
+      "name": "Marcadorbot",
+      "from": [8, 3.7, 6.89],
+      "to": [8, 4.2, 7.39],
+      "rotation": {"angle": -27.5, "axis": "z", "origin": [8, 11, 7]},
+      "faces": {
+        "north": {"uv": [0.03774, 0, 0.03774, 0.02532], "texture": "#1"},
+        "east": {"uv": [2.39623, 14.59494, 4.15094, 15.58228], "texture": "#1"},
+        "south": {"uv": [0, 0, 0, 0.02532], "texture": "#1"},
+        "west": {"uv": [2.37736, 14.81013, 4.18868, 15.72152], "texture": "#1"},
+        "up": {"uv": [0, 0, 0, 0.01266], "texture": "#1"},
+        "down": {"uv": [0, 0.01266, 0, 0.02532], "texture": "#1"}
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [0, 90, 0],
+      "scale": [1.7, 1.7, 1.7]
+    },
+    "thirdperson_righthand": {
+      "translation": [1.25, 1.25, 0]
+    },
+    "firstperson_righthand": {
+      "translation": [0, 1.25, 0]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "homequest:block/quest_chest_block" },
+    "facing=south": { "model": "homequest:block/quest_chest_block" },
+    "facing=west":  { "model": "homequest:block/quest_chest_block" },
+    "facing=east":  { "model": "homequest:block/quest_chest_block" }
+  }
+}

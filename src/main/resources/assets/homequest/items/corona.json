@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "homequest:item/corona_item_model"
+  }
+}

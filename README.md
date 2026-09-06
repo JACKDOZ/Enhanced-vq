@@ -51,13 +51,13 @@ cd Enhanced-VQ
 Windows:
 
 ```bash
-gradlew.bat build
+/gradle build
 ```
 
 Linux/macOS:
 
 ```bash
-./gradlew build
+./gradle build
 ```
 
 After a successful build, the compiled mod will be located in:
